@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn Git | Learn Git
-  :-------------------------:|:-------------------------:
+Learn Git `#F14E32` | Learn Git `#F14E32`
+:-------------------------:|:-------------------------:
 ![Learn Git Logo](https://github.com/patashale/laern-git/assets/68323012/9d6b6315-55a6-4874-b7b0-5ddc0d7de7b2) | ![Learn Git Logo](https://github.com/patashale/laern-git/assets/68323012/9d6b6315-55a6-4874-b7b0-5ddc0d7de7b2)
